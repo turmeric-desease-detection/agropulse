@@ -1,0 +1,1 @@
+A deep learning–based web application that identifies disease types in turmeric plant leaves using a trained InceptionV3 model. The app is built with TensorFlow and Streamlit for simple deployment and easy user interaction.
